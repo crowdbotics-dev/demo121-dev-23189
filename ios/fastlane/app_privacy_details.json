@@ -1,0 +1,41 @@
+[
+    {
+        "category": "NAME",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING",
+            "ANALYTICS",
+            "PRODUCT_PERSONALIZATION",
+            "DEVELOPERS_ADVERTISING",
+            "APP_FUNCTIONALITY",
+            "OTHER_PURPOSES"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU",
+            "DATA_USED_TO_TRACK_YOU"
+        ]
+    },
+    {
+        "category": "HEALTH",
+        "purposes": [
+            "DEVELOPERS_ADVERTISING",
+            "ANALYTICS",
+            "PRODUCT_PERSONALIZATION",
+            "OTHER_PURPOSES"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU",
+            "DATA_USED_TO_TRACK_YOU"
+        ]
+    },
+    {
+        "category": "FITNESS",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING",
+            "APP_FUNCTIONALITY",
+            "ANALYTICS"
+        ],
+        "data_protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
+    }
+]
